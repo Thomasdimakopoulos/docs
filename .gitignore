@@ -15,4 +15,4 @@ npm-debug.log*
 
 # ide and editors
 .idea
-.vscode
+config.bat
